@@ -1,6 +1,9 @@
 # aws-bedrock-FMs
 working with AWS Bedrock foundational models like  amazon titan text express-v1 and amazon titan image-generation-v2:0 via APIs
 
+![Screenshot 2024-10-07 211622](https://github.com/user-attachments/assets/41105687-2bd5-4935-b5cd-3be7f41d322b)
+
+
 # AWS Titan Image Generator
 
 This project utilizes the AWS Titan Image Generator API to create images from textual descriptions. The code demonstrates how to invoke the model using the AWS SDK for Python (Boto3) and handle the response to save the generated images.
